@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class AliceAndBobEngine here.
+ * Schöne Möglichkeit um Unit-Tests zu lernen
  *
  * @author (your name)
  * @version (a version number or a date)
